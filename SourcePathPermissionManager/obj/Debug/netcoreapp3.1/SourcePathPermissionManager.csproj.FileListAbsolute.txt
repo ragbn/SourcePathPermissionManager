@@ -1,0 +1,4 @@
+C:\Users\rananjai\source\repos\SourcePathPermissionManager\SourcePathPermissionManager\bin\Debug\netcoreapp3.1\SourcePathPermissionManager.exe
+C:\Users\rananjai\source\repos\SourcePathPermissionManager\SourcePathPermissionManager\obj\Debug\netcoreapp3.1\SourcePathPermissionManager.csprojAssemblyReference.cache
+C:\Users\rananjai\source\repos\SourcePathPermissionManager\SourcePathPermissionManager\obj\Debug\netcoreapp3.1\SourcePathPermissionManager.AssemblyInfoInputs.cache
+C:\Users\rananjai\source\repos\SourcePathPermissionManager\SourcePathPermissionManager\obj\Debug\netcoreapp3.1\SourcePathPermissionManager.AssemblyInfo.cs
